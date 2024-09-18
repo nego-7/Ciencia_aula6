@@ -1,0 +1,9 @@
+header {
+    background-color: brown;
+    justify-content: center;
+    align-items:center;
+    text-align: center; //hgfh
+}
+img{
+    border-radius: 30%; // alterar a borda da imagem
+}
